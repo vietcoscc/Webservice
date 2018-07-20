@@ -1,0 +1,12 @@
+{
+    "name": "viet/websevice",
+    "authors": [
+        {
+            "name": "Nguyen Quoc Viet",
+            "email": "vietcoscc@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.0"
+    }
+}
